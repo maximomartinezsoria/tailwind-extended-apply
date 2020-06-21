@@ -11,7 +11,7 @@ npm i tailwindcss
 ```
 npm i tailwind-extended-apply
 ```
-3. 
+3. Add or edit `postcss.config.js` file. It's important to keep `require('tailwind-extended-apply')` above `require('tailwindcss')`.
 ```
 module.exports = {
   plugins: [
@@ -22,3 +22,7 @@ module.exports = {
   ]
 }
 ```
+
+## Author
+
+- [**Maximo Martinez Soria**](https://maximomartinezsoria.com) - _Fullstack Developer_
