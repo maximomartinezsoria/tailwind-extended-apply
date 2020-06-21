@@ -1,7 +1,7 @@
 {
   "name": "tailwind-extended-apply",
   "version": "1.0.0",
-  "description": "responsive variants allowed with tailwind's apply. Example: @apply sm:w-1/2",
+  "description": "responsive variants are now allowed with tailwind's apply. Example: @apply sm:w-1/2",
   "main": "src/index.js",
   "keywords": ["tailwind", "css", "responsive"],
   "author": "Maximo Martinez Soria <maximo.martinezsoria@gmail.com>",
